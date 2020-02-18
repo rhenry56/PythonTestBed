@@ -1,0 +1,7 @@
+﻿----- Installing 'pycurl' -----
+Collecting pycurl
+  Downloading pycurl-7.43.0.5-cp37-cp37m-win_amd64.whl (1.7 MB)
+Installing collected packages: pycurl
+Successfully installed pycurl-7.43.0.5
+----- Successfully installed 'pycurl' -----
+
